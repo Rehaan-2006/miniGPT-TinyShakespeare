@@ -325,22 +325,4 @@ This understanding directly influenced how I architect RAG systems—you can't d
 ---
 
 ## License
-
-MIT License — feel free to use, modify, and share.
-
----
-
-## Questions?
-
-If you're learning transformers and have questions about any component, feel free to open an issue. I'm happy to explain:
-- The math behind attention
-- Why certain architectural choices matter
-- How this scales to larger models
-- How to apply transformer understanding to production systems
-
----
-
-**Last trained:** April 2026  
-**Model size:** 211K parameters  
-**Training time:** ~7 minutes (GPU)  
-**Hardware:** CUDA-enabled GPU
+This project is licensed under the MIT License - see the LICENSE file for details.
